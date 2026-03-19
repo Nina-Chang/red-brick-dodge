@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/red-brick-dodge/static/css/main.e6c13ad2.css",
+    "main.js": "/red-brick-dodge/static/js/main.754a02ae.js",
+    "static/js/453.6e506ca6.chunk.js": "/red-brick-dodge/static/js/453.6e506ca6.chunk.js",
+    "index.html": "/red-brick-dodge/index.html",
+    "main.e6c13ad2.css.map": "/red-brick-dodge/static/css/main.e6c13ad2.css.map",
+    "main.754a02ae.js.map": "/red-brick-dodge/static/js/main.754a02ae.js.map",
+    "453.6e506ca6.chunk.js.map": "/red-brick-dodge/static/js/453.6e506ca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.754a02ae.js"
+  ]
+}
